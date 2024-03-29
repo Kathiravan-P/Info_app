@@ -1,0 +1,67 @@
+.form_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to top, #a8c0ff, #3f2b96);
+  background-size: cover;
+  height: 92vh;
+  width: 100vw;
+}
+
+.form {
+  background-color: #a8c0ff;
+  padding: 2.2rem;
+  border-radius: 2rem;
+}
+label {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #3f2b96;
+}
+
+.each_form {
+  padding: 0.5rem;
+}
+
+.text_box {
+  height: 2rem;
+  width: 16rem;
+  margin-top: 0.3rem;
+  border-radius: 0.6rem;
+  border: 0px;
+  padding-left: 1rem;
+}
+
+.radio_text {
+  font-weight: 400;
+  font-size: 1rem;
+  padding-left: 0.7rem;
+  color: #363636;
+}
+
+.radio_icon {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-top: 0.7rem;
+}
+
+.radio_icon2 {
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-left: 1.5rem;
+}
+
+.submit_button {
+  background-color: #3f2b96;
+  color: #fff;
+}
+
+.button_container {
+  padding: 1.3rem 0rem 0rem 1rem;
+}
+.response_message {
+  font-weight: 600;
+  color: red;
+  margin-top: 1.5rem;
+}
