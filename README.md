@@ -1,4 +1,5 @@
-# React + Vite
+Info_app
+
 Setup and Installation
 1. Clone the repository to your local machine.
 2. cd "Info_app"
